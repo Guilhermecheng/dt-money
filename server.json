@@ -39,6 +39,14 @@
       "type": "outcome",
       "createdAt": "2023-03-21T03:25:57.272Z",
       "id": 5
+    },
+    {
+      "description": "Um almoço",
+      "price": 55,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-03-25T01:38:36.949Z",
+      "id": 6
     }
   ]
 }
